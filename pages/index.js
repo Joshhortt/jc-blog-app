@@ -22,10 +22,8 @@ export default function Home({ posts }) {
             <PostWidget />
             <Categories />
           </div>
-
         </div>
       </div>      
-
     </div>
   )
 }
