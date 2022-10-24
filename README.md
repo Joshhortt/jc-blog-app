@@ -149,4 +149,4 @@ _My email is: joshhortt@yahoo.com_
 _**MIT License** Copyright (c) 2022 Josh Hortt_
 
 # Project Demo Image
-<img src='https://i.ibb.co/Ph86Gh7/jc-blog-Full.png' />
+<img src='https://i.ibb.co/r6VgQcz/jc-blog-Full.png' />
