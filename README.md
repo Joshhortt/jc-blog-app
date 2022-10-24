@@ -148,5 +148,5 @@ _My email is: joshhortt@yahoo.com_
 ### License
 _**MIT License** Copyright (c) 2022 Josh Hortt_
 
-# Project Demo 
+# Project Demo Image
 <img src='https://i.ibb.co/Ph86Gh7/jc-blog-Full.png' />
