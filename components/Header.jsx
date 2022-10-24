@@ -1,6 +1,8 @@
 import React, { useState, useEffect} from 'react'
 import Link from 'next/link';
 import { getCategories } from '../services';
+import image from '../public/logo.png'
+import { loadGetInitialProps } from 'next/dist/shared/lib/utils';
 
 const Header = () => {
     const [categories, setCategories] = useState([])
@@ -15,8 +17,8 @@ const Header = () => {
             <div className="border-b w-full inline-block border-pink-500 py-8">
                 <div className="md:float-left block">
                     <Link href="/">
-                        <span className="cursor-pointer font-bold text-4xl text-white">
-                            JAHC
+                        <span className="logo">
+                        <img src={"logo.png"} width="100" height="50"/>
                         </span>
                     </Link>
                 </div>
