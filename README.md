@@ -5,7 +5,7 @@ version: 23/10/2022
 ## Jc Blog App | [Live Link](https://jahc.vercel.app/)
 
 ## Description
-_This application is about an E-commerce Hardware store for small businesses_<br/>
+_This application is a simple Blogging Website_<br/>
 _It was built for a myself but especially developed for Writers in general_<br/>
 _With featured and recent posts, categories. full markdown articles,_<br/>
 _author information, comments, and much more, this fully responsive_<br/>
@@ -149,4 +149,4 @@ _My email is: joshhortt@yahoo.com_
 _**MIT License** Copyright (c) 2022 Josh Hortt_
 
 # Project Demo 
-<img src='' />
+<img src='https://i.ibb.co/Ph86Gh7/jc-blog-Full.png' />
